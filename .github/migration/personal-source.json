@@ -1,0 +1,20 @@
+{
+  "source_repository": "Bartron773/project-voyager-iii",
+  "source_default_sha": "b9f5783fa5bc1c0f4bf695e780d7c9719feae2e3",
+  "organization_sha_before_audit": "142024cd0ea661fe3b0df80cafeaa281ce190581",
+  "common_ancestor": "b9f5783fa5bc1c0f4bf695e780d7c9719feae2e3",
+  "source_description": null,
+  "source_homepage": null,
+  "preserved_branches": [],
+  "source_branch_map": [
+    {
+      "source_branch": "main",
+      "sha": "b9f5783fa5bc1c0f4bf695e780d7c9719feae2e3",
+      "preserved_in": "organization main ancestry"
+    }
+  ],
+  "source_tags": [],
+  "issues_and_pull_requests": [],
+  "releases": [],
+  "note": "Git history and branch tips are preserved under archive/personal/*. GitHub issue/PR numbers, review threads, check runs, permissions and secrets are not Git objects. Source records remain at their original URLs. No credential values have been copied."
+}
